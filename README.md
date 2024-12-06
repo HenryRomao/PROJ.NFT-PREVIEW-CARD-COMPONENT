@@ -34,12 +34,12 @@ Grato!😊
 
 Clone com o projeto:
 ```
-git clone <url>
+git clone https://github.com/HenryRomao/PROJ.NFT-PREVIEW-CARD-COMPONENT.git
 ```
 
 Acesse a pasta do projeto:
 ```
-cd PROJ.PROFILE-CARD
+cd PROJ.NFT-PREVIEW-CARD-COMPONENT 
 ```
 
 Bom estudo. 🍀
