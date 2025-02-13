@@ -18,7 +18,7 @@ Os usuários devem ser capazes de:
 [<img src="./Src/Img-Design/mobile-design.jpg" alt="imgem final da versão para mobile">
 ]
 
-💻- Visualização final da versão intrativa do projeto.
+💻- Visualização final da versão interativa do projeto.
 
 [<img src="./Src/Img-Design/active-states.jpg" alt="imgem final da versão interativa.">
 ]
